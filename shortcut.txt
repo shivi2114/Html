@@ -1,0 +1,29 @@
+
+
+
+ctrl+/    (for comment writing)
+atl+ctrl+n (run)
+Lorem10 ( for any 10 random words)
+<br> (work as an backslash) {line brake}
+<strong> ( to bold the text)
+<em> ( to make italic) 
+<hr> (For page separate)
+target=" " (for new tab)
+<ul> ( for making unordered list)
+<li> (for list)
+
+dl { Definition list}-dt{hrading}
+dd{description}
+
+type-attribute (disc,circle,square,none)
+for making table: <table>,<thead>,<tbody>
+for making row : <tr>
+for making column : <th> {it should be insife tr}
+
+
+img{image}-widhth,height
+row span {to expand teh row}
+colspan,rowspan
+
+
+
